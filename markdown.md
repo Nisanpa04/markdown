@@ -30,7 +30,7 @@ Esto es una sepración
 ---
 
 ## Negritas y cursivas
-*** No sé si tengo tiempo. Quizás me dé pronto por vencido y en lugar de eso me eche una siesta. ¡Hoy es 18 de junio y es el cumpleños de Miguel! Una vez astrofísico. Todo el mundo debe aprender por sí mismo al final. ***
+***No sé si tengo tiempo. Quizás me dé pronto por vencido y en lugar de eso me eche una siesta. ¡Hoy es 18 de junio y es el cumpleños de Miguel! Una vez astrofísico. Todo el mundo debe aprender por sí mismo al final.***
 
 ## Enlaces
 [Enfoque Nómada](https://enfoquenomada.com "Productividad Movil")
