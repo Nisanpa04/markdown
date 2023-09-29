@@ -39,7 +39,6 @@ Esto es una sepración
 
 ## Imagenes
 
-![Ebook navegador minimalista](image.png)
 ![Ebook navegador minimalista](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/GitHub_logo_2013.svg/320px-GitHub_logo_2013.svg.png)
 
 ## Codigo 
