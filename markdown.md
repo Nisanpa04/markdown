@@ -39,7 +39,7 @@ Esto es una sepración
 
 ## Imagenes
 
-![Ebook navegador minimalista](https://enfoquenomada.com/wp-contect/uploads/2016/07/Crear-navegador-minimalista.jpg)
+![Ebook navegador minimalista](image.png)
 
 ## Codigo 
     Esto es código
