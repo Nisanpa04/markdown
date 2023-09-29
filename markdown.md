@@ -40,7 +40,7 @@ Esto es una sepración
 ## Imagenes
 
 ![Ebook navegador minimalista](image.png)
-![Ebook navegador minimalista](https://es.wikipedia.org/wiki/Markdown#/media/Archivo:Markdown-mark.svg)
+![Ebook navegador minimalista] (https://es.wikipedia.org/wiki/Markdown#/media/Archivo:Markdown-mark.svg)
 
 ## Codigo 
     Esto es código
