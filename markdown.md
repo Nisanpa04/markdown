@@ -49,7 +49,7 @@ Eso es porque no quieres estar solo. No puedo vivir asi.
 Supongo que es diferente cuando lo consideras a largo plazo
 ~~~
 
-Tambien puedes usar 'codigo' asi
+Tambien puedes usar `codigo` asi
 
 ## Anular Markdown
-De esta forma \* anulas markdown * .
+De esta forma \*anulas markdown* .
